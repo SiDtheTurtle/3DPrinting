@@ -8,7 +8,7 @@
 // Print in rendered orientation, no supports or brim should be required unless the cutout
 // sags, do not print on its side as the arms would need supports
 //
-// https://github.com/SiDtheTurtle/CAD/SwatchHolderForFilamentSpoolHolder/
+// https://github.com/SiDtheTurtle/CAD/
 //
 // ------------------------------------------------------------------------------------------
 

@@ -7,7 +7,7 @@
 //
 // Print in rendered orientation, no supports or brim should be required
 //
-// https://github.com/SiDtheTurtle/CAD/SwatchHolderForFilamentSpoolHolder/
+// https://github.com/SiDtheTurtle/CAD/
 //
 // ------------------------------------------------------------------------------------------
 
