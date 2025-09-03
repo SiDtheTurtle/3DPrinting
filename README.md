@@ -1,4 +1,4 @@
-# CAD and STLs
+# 3D Printing CADs and STLs
 Repository of CAD designs and STL files, primarily for 3D Printing.
 
 ## Double swatch holder for 'Fully Printable Filament Storage Rack'
