@@ -1,5 +1,5 @@
-# CAD
-Repository of CAD designs, primarily for 3D Printing.
+# CAD and STLs
+Repository of CAD designs and STL files, primarily for 3D Printing.
 
 ## Double swatch holder for 'Fully Printable Filament Storage Rack'
 ![PXL_20250829_100811630](https://github.com/user-attachments/assets/86072a4f-e94d-48a1-9595-c5fc6cc35ecc)
@@ -17,3 +17,16 @@ The default settings in the SCAD and the scale of the STLs seems to work well fo
 I push-fitted the clip to the holder, but you may need glue.
 
 Print in the orientation provided.
+
+## MultiConnect
+CADs and STLs for any parts I've remixed to connect to MultiBoard or OpenGrid using [MultiConnect](https://www.printables.com/model/1074671-raised-multiconnect-generic-connector-for-multiboa).
+
+## Bosch Battery_Holder
+![](MultiConnectAdapters/Bosch_1.jpg)
+![](MultiConnectAdapters/Bosch_2.jpg)
+![](MultiConnectAdapters/Bosch_3.jpg)
+
+- [GitHub](MultiConnectAdapters/Bosch_Battery_Holder_with_Multiconnect_Cutout.stl)
+- [Thingiverse](https://www.thingiverse.com/thing:7133829/files)
+
+Remix of a [BOSCH battery holder](https://www.thingiverse.com/thing:5190341), with a MultiConnect cutout.
