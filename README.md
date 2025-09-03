@@ -21,12 +21,11 @@ Print in the orientation provided.
 ## MultiConnect
 CADs and STLs for any parts I've remixed to connect to MultiBoard or OpenGrid using [MultiConnect](https://www.printables.com/model/1074671-raised-multiconnect-generic-connector-for-multiboa).
 
-## Bosch Battery_Holder
+### Bosch Battery Holder
 ![](MultiConnectAdapters/Bosch_1.jpg)
-![](MultiConnectAdapters/Bosch_2.jpg)
 ![](MultiConnectAdapters/Bosch_3.jpg)
 
 - [GitHub](MultiConnectAdapters/Bosch_Battery_Holder_with_Multiconnect_Cutout.stl)
 - [Thingiverse](https://www.thingiverse.com/thing:7133829/files)
 
-Remix of a [BOSCH battery holder](https://www.thingiverse.com/thing:5190341), with a MultiConnect cutout.
+Remix of a [Bosch battery holder](https://www.thingiverse.com/thing:5190341), with a MultiConnect cutout.
